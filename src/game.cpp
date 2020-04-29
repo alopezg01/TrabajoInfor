@@ -48,7 +48,7 @@ void OnDraw(void)
 		0.0, 1.0, 0.0);      // definimos hacia arriba (eje Y)   
 
 
-	//EJEMPLO PA PROBAR jksdfvgbsifhvbn
+	//EJEMPLO PA PROBAR
 	glColor3ub(255, 255, 255);
 	glBegin(GL_POLYGON);
 	glVertex3f(-5.0f, -5.0f, 0.0f);
